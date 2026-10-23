@@ -1,0 +1,11 @@
+# Created by GitHub Copilot
+
+.gitignore
+.idea/
+.gradle/
+local.properties
+/build/
+/app/build/
+*.iml
+*.apk
+*.aab
